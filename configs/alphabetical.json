@@ -317,6 +317,8 @@
 		"page-break-after",
 		"page-break-before",
 		"page-break-inside",
+		"perspective",
+		"perspective-origin",
 		"pointer-events",
 		"position",
 		"quotes",
