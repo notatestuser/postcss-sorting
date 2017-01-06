@@ -311,6 +311,7 @@
 		"outline-width",
 		"overflow",
 		"-webkit-overflow-scrolling",
+		"-ms-overflow-style",
 		"-ms-overflow-x",
 		"overflow-x",
 		"-ms-overflow-y",
